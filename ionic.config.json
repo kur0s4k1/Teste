@@ -1,0 +1,7 @@
+{
+  "name": "CEIF",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
